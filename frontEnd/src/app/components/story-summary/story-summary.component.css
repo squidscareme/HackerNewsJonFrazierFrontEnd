@@ -1,0 +1,9 @@
+@import '~@angular/material/prebuilt-themes/deeppurple-amber.css';
+
+.mat-card {
+    margin:2rem;
+}
+
+.card-content {
+    margin-left: 1rem;
+}
